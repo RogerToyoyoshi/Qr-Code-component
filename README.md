@@ -5,15 +5,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+### Screenshot
+
+![Project screenshot](./screenshot.jpeg)
 
 ### Links
 
@@ -21,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-First i have built an HTML structure with the content, then stylized the page based on proportions of the figma project.
+First i have built an HTML structure with the content, then stylized the page with a mobile first approach based on proportions of the figma project.
 
 ### Built with
 
@@ -32,7 +35,7 @@ First i have built an HTML structure with the content, then stylized the page ba
 
 ### What I learned
 
-I applied some CSS properties i have not practiced in a while.
+I have practiced flexbox and media query in the making of this project.
 
 ## Author
 
